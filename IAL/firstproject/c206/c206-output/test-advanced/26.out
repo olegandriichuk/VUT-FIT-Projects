@@ -1,0 +1,15 @@
+
+[test_insertLast_active] Vložení prvu na poslední místo (seznam je aktivní)
+List elements  : 1
+First element  : 1
+Last element   : 1
+Active element : 1
+List elements  : 1 2
+First element  : 1
+Last element   : 2
+Active element : 1
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 1
+

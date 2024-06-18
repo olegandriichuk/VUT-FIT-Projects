@@ -1,0 +1,6 @@
+
+[test_pop_top] Top of stack after popping
+STACK: BOTTOM { a } TOP
+STACK: BOTTOM { } TOP
+Stack error: TOP
+

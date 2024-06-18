@@ -1,0 +1,7 @@
+
+[test_last_inactive] Výběr posledního prvku v seznamu (seznam není aktivní)
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 3
+

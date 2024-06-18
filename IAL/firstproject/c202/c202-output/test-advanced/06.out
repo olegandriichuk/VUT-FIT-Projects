@@ -1,0 +1,5 @@
+
+[test_overpop_many] Pop from stack when empty many times
+STACK: BOTTOM { } TOP
+STACK: BOTTOM { } TOP
+

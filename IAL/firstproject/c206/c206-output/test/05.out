@@ -1,0 +1,23 @@
+
+[test_insert_first] Vkládání nových prvků na začátek seznamu
+List elements  : none (list is empty)
+First element  : not initialised (list is empty)
+Last element   : not initialised (list is empty)
+Active element : not initialised (no item is active)
+List elements  : 4
+First element  : 4
+Last element   : 4
+Active element : not initialised (no item is active)
+List elements  : 3 4
+First element  : 3
+Last element   : 4
+Active element : not initialised (no item is active)
+List elements  : 2 3 4
+First element  : 2
+Last element   : 4
+Active element : not initialised (no item is active)
+List elements  : 1 2 3 4
+First element  : 1
+Last element   : 4
+Active element : not initialised (no item is active)
+

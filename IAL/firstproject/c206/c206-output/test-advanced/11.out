@@ -1,0 +1,12 @@
+
+[test_isActive_active] Výběr následujícího prvku v seznamu (seznam je aktivní)
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : not initialised (no item is active)
+Is list element active? No
+Is list element active? Yes
+Is list element active? Yes
+Is list element active? Yes
+Is list element active? No
+

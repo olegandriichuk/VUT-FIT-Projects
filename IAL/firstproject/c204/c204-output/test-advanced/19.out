@@ -1,0 +1,7 @@
+
+[test_20] Mixed operators expression
+Provided infix  : a+b*c-d=
+Expected postfix: abc*+d-=
+Conversion match: OK
+
+

@@ -1,0 +1,5 @@
+
+[test_empty] Stack is empty after initialization
+STACK: BOTTOM { } TOP
+Is stack empty? Yes
+

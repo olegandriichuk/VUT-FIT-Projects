@@ -1,0 +1,7 @@
+
+[test_02] Digits with minus operator
+Provided infix  : 0-1=
+Expected postfix: 01-=
+Conversion match: OK
+
+

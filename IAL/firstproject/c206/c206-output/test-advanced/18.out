@@ -1,0 +1,8 @@
+
+[test_getLast_empty] Získání hodnoty posledního prvku (seznam je prázdný)
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : not initialised (no item is active)
+Returned value : N/A
+

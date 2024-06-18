@@ -1,0 +1,5 @@
+
+[test_empty_pop] Pop from empty stack
+STACK: BOTTOM { } TOP
+STACK: BOTTOM { } TOP
+

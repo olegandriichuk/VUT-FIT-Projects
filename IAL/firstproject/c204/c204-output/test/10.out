@@ -1,0 +1,6 @@
+
+[test_eval_01] Evaluate expression
+expression : (a+b)*(c-d)=
+variables  : a = 5, b = 5, c = 12, d = 2
+eval result: 100
+

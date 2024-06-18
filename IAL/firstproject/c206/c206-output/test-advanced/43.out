@@ -1,0 +1,11 @@
+
+[test_insertAfter_inactive] Vložení několika prvků za aktivní prvek (neaktivní seznam)
+List elements  : 1
+First element  : 1
+Last element   : 1
+Active element : not initialised (no item is active)
+List elements  : 1
+First element  : 1
+Last element   : 1
+Active element : not initialised (no item is active)
+

@@ -1,0 +1,7 @@
+
+[test_17] Paretntheses change operator priority
+Provided infix  : (a-b)*C=
+Expected postfix: ab-C*=
+Conversion match: OK
+
+

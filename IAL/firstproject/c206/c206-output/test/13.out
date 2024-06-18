@@ -1,0 +1,10 @@
+
+[test_get_value] Získání hodnot aktivních prvků
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : not initialised (no item is active)
+Returned value : 1
+Returned value : 2
+Returned value : 3
+

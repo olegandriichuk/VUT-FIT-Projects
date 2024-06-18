@@ -1,0 +1,11 @@
+
+[test_last_previous_activity] Nastavení aktivity na předchůdcích
+Active element : not initialised (no item is active)
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 3
+Active element : 2
+Active element : 1
+Active element : not initialised (no item is active)
+

@@ -1,0 +1,7 @@
+
+[test_deleteFirst_empty] Odstranění prvního prvku (seznam je prázdný)
+List elements  : none (list is empty)
+First element  : not initialised (list is empty)
+Last element   : not initialised (list is empty)
+Active element : not initialised (no item is active)
+

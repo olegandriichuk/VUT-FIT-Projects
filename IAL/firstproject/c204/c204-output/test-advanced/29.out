@@ -1,0 +1,6 @@
+
+[test_eval_06] Evaluate expression
+expression : (A*0+b)*((c*(1+D))-(e/(5*f+g)))=
+variables  : A = 99, b = -20, c = 12, D = 149, e = 10000, f = 50, g = 750
+eval result: -35800
+

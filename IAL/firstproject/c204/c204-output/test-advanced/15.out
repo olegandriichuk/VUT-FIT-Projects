@@ -1,0 +1,7 @@
+
+[test_16] Paretntheses change operator priority
+Provided infix  : (A+b)/c=
+Expected postfix: Ab+c/=
+Conversion match: OK
+
+

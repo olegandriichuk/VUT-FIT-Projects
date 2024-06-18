@@ -1,0 +1,7 @@
+
+[test_01] Multiplication operator does not have higher priority than division
+Provided infix  : a/B*C=
+Expected postfix: aB/C*=
+Conversion match: OK
+
+

@@ -1,0 +1,11 @@
+
+[test_first_active] Výběr prvního prvku v seznamu (jiný prvek je aktivní)
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : 1
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : 3
+

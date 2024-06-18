@@ -1,0 +1,7 @@
+
+[test_05] Simple parentheses support
+Provided infix  : (a+b)=
+Expected postfix: ab+=
+Conversion match: OK
+
+

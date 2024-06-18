@@ -1,0 +1,7 @@
+
+[test_03] Mixed operands with multiplication operator
+Provided infix  : a*0=
+Expected postfix: a0*=
+Conversion match: OK
+
+

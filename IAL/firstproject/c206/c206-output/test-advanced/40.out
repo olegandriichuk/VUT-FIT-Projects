@@ -1,0 +1,15 @@
+
+[test_deleteBefore_active] Odstranění předcházejícího prvku v seznamu (seznam je aktivní)
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 1
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 1
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 1
+

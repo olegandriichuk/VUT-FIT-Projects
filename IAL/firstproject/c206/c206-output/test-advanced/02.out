@@ -1,0 +1,7 @@
+
+[test_first_inactive] Výběr prvního prvku v seznamu (seznam není aktivní)
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : 3
+

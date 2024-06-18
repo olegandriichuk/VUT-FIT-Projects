@@ -1,0 +1,5 @@
+
+[test_not_full_init] Stack is not full after initialization
+STACK: BOTTOM { } TOP
+Is stack full? No
+

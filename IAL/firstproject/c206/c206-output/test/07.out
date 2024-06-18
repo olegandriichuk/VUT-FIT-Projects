@@ -1,0 +1,8 @@
+
+[test_get_value_inactive] Získání hodnoty prvku v seznamu bez aktivního prvku
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : not initialised (no item is active)
+*ERROR* The program has performed an illegal operation.
+

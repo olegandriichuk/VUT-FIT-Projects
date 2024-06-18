@@ -1,0 +1,7 @@
+
+[test_11] Expression evaluation form the left to the right also for minus operator
+Provided infix  : a-b-c=
+Expected postfix: ab-c-=
+Conversion match: OK
+
+

@@ -1,0 +1,7 @@
+
+[test_13] Expression evaluation form the left to the right also for divide operator
+Provided infix  : a/b/c=
+Expected postfix: ab/c/=
+Conversion match: OK
+
+

@@ -1,0 +1,7 @@
+
+[test_first_empty] Výběr prvního prvku v seznamu (seznam je prázdný)
+List elements  : none (list is empty)
+First element  : not initialised (list is empty)
+Last element   : not initialised (list is empty)
+Active element : not initialised (no item is active)
+

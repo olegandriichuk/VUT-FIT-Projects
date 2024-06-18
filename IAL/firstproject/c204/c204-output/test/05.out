@@ -1,0 +1,7 @@
+
+[test_06] Expression evaluation from the left to the right
+Provided infix  : a+b+c=
+Expected postfix: ab+c+=
+Conversion match: OK
+
+

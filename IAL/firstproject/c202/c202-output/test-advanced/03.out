@@ -1,0 +1,7 @@
+
+[test_overpush] Push over the stack capacity
+STACK: BOTTOM { } TOP
+Stack error: PUSH
+Stack error: PUSH
+STACK: BOTTOM { a } TOP
+

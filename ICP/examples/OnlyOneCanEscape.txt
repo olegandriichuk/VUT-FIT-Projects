@@ -1,0 +1,17 @@
+Object-type, position_x, position_y, speed(robot), angle(robot), dangle(robot), omega(robot), range(robot), direction(robot)
+Obstacle   , 70, 443
+Obstacle   , 142, 500
+Obstacle   , 220, 529
+Obstacle   , 296, 570
+Obstacle   , 443, 569
+Obstacle   , 526, 540
+Obstacle   , 605, 495
+Obstacle   , 681, 446
+Obstacle   , 37, 376
+Obstacle   , 713, 374
+Obstacle   , 526, 79
+Obstacle   , 368, 283
+Obstacle   , 118, 208
+Robot      , 397, 36, 27, 0, 254, 100, 50, 1
+Robot      , 397, 81, 65, 0, 103, 76, 46, 1
+Robot      , 397, 125, 11, 0, 181, 71, 76, -1

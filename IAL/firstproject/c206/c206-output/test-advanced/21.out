@@ -1,0 +1,15 @@
+
+[test_setValue_active] Změna hodnoty aktivního prvku (seznam je aktivní)
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 1
+List elements  : 3 2 3
+First element  : 3
+Last element   : 3
+Active element : 3
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : 1
+

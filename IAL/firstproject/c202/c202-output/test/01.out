@@ -1,0 +1,5 @@
+
+[test_push_empty] Stack push after initialization
+STACK: BOTTOM { } TOP
+STACK: BOTTOM { a } TOP
+

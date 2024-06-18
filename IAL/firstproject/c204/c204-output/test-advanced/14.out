@@ -1,0 +1,7 @@
+
+[test_15] Divide operator has higher priority than minus (inverse order)
+Provided infix  : A-b/C=
+Expected postfix: AbC/-=
+Conversion match: OK
+
+

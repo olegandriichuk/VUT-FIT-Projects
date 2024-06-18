@@ -1,0 +1,7 @@
+
+[test_08] Plus operator does not have higher priority than minus
+Provided infix  : A-B+C=
+Expected postfix: AB-C+=
+Conversion match: OK
+
+

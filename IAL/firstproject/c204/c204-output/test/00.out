@@ -1,0 +1,7 @@
+
+[test_01] Upper and lower case characters with plus operator
+Provided infix  : a+B=
+Expected postfix: aB+=
+Conversion match: OK
+
+

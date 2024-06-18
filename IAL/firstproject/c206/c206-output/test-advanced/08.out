@@ -1,0 +1,11 @@
+
+[test_previous_inactive] Výběr předcházejícího prvku v seznamu (seznam není aktivní)
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : not initialised (no item is active)
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : not initialised (no item is active)
+

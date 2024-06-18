@@ -1,0 +1,11 @@
+
+[test_deleteAfter_last] Odstranění následujícího prvku v seznamu (prvek je v seznamu na posledním místě)
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 3
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 3
+

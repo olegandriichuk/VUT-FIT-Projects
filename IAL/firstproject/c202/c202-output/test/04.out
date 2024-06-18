@@ -1,0 +1,5 @@
+
+[test_pop_multiple] Multiple stack pops
+STACK: BOTTOM { a b c d e } TOP
+STACK: BOTTOM { a b } TOP
+

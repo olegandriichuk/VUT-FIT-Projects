@@ -1,0 +1,5 @@
+
+[test_empty_top] Top of empty stack
+STACK: BOTTOM { } TOP
+Stack error: TOP
+

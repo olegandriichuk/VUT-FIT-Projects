@@ -1,0 +1,7 @@
+
+[test_22] Mixed operators expression with parenthesis
+Provided infix  : a+b*(c-d)=
+Expected postfix: abcd-*+=
+Conversion match: OK
+
+

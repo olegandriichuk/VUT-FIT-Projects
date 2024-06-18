@@ -1,0 +1,11 @@
+
+[test_next_inactive] Aktivace následujícího prvku v seznamu bez aktivního prvku
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : not initialised (no item is active)
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : not initialised (no item is active)
+

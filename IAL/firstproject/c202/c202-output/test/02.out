@@ -1,0 +1,5 @@
+
+[test_push_multiple] Multiple stack pushes
+STACK: BOTTOM { } TOP
+STACK: BOTTOM { a b c } TOP
+

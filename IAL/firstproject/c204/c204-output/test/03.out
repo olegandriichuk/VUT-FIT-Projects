@@ -1,0 +1,7 @@
+
+[test_04] Mixed operands with division operator
+Provided infix  : B/1=
+Expected postfix: B1/=
+Conversion match: OK
+
+

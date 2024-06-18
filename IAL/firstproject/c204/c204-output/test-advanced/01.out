@@ -1,0 +1,7 @@
+
+[test_02] Multiplication operator has higher priority than plus
+Provided infix  : a*B+c=
+Expected postfix: aB*c+=
+Conversion match: OK
+
+

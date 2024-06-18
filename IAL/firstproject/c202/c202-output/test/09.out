@@ -1,0 +1,5 @@
+
+[test_not_empty_full] Stack is not empty after filling
+STACK: BOTTOM { 0 1 2 3 4 5 6 7 } TOP
+Is stack empty? No
+

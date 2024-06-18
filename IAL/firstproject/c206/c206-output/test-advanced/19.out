@@ -1,0 +1,18 @@
+
+[test_getValue_active] Získání hodnoty prvního prvku (seznam je aktivní)
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 1
+Returned value : 1
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 2
+Returned value : 2
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 3
+Returned value : 3
+

@@ -1,0 +1,15 @@
+
+[test_getValue_inactive] Získání hodnoty prvního prvku (seznam není aktivní)
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : not initialised (no item is active)
+*ERROR* The program has performed an illegal operation.
+Returned value : 8
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : not initialised (no item is active)
+*ERROR* The program has performed an illegal operation.
+Returned value : 8
+

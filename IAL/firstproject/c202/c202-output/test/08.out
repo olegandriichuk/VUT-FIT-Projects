@@ -1,0 +1,5 @@
+
+[test_not_empty] Stack is not empty after pushing
+STACK: BOTTOM { a } TOP
+Is stack empty? No
+

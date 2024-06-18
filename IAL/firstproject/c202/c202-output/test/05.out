@@ -1,0 +1,6 @@
+
+[test_top] Stack top
+STACK: BOTTOM { a } TOP
+Char on the top: a
+STACK: BOTTOM { a } TOP
+

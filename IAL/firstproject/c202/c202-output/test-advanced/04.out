@@ -1,0 +1,10 @@
+
+[test_overpush_pop_overpush] Push over the stack capacity, free it and do it again
+STACK: BOTTOM { } TOP
+Stack error: PUSH
+Stack error: PUSH
+STACK: BOTTOM { a } TOP
+Stack error: PUSH
+Stack error: PUSH
+STACK: BOTTOM { b } TOP
+

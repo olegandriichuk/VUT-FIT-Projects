@@ -1,0 +1,7 @@
+
+[test_05] Complex expression conversion
+Provided infix  : (A*0+b)*((c*(1+D))-(e/(3*f+g)))=
+Expected postfix: A0*b+c1D+*e3f*g+/-*=
+Conversion match: OK
+
+

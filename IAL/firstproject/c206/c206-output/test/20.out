@@ -1,0 +1,23 @@
+
+[test_delete_first] Zrušení prvního prvku v seznamu
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : not initialised (no item is active)
+List elements  : 2 1
+First element  : 2
+Last element   : 1
+Active element : not initialised (no item is active)
+List elements  : 1
+First element  : 1
+Last element   : 1
+Active element : not initialised (no item is active)
+List elements  : none (list is empty)
+First element  : not initialised (list is empty)
+Last element   : not initialised (list is empty)
+Active element : not initialised (no item is active)
+List elements  : none (list is empty)
+First element  : not initialised (list is empty)
+Last element   : not initialised (list is empty)
+Active element : not initialised (no item is active)
+

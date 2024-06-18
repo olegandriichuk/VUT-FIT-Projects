@@ -1,0 +1,6 @@
+
+[test_eval_07] Evaluate expression
+expression : (A*0+b/l)-((c+D)*(x)/k*5)*(e/(3*f/g+h/i*(j+k/m)))=
+variables  : A = 99, b = 20, c = 51, D = 149, e = 26350, f = 500, g = 20, h = 350, i = 10, j = 15, k = 20, l = 5, m = 4, x = -10
+eval result: 17004
+

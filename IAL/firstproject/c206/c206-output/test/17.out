@@ -1,0 +1,13 @@
+
+[test_is_active] Aktivita seznamu
+List elements  : 1 2
+First element  : 1
+Last element   : 2
+Active element : not initialised (no item is active)
+Is list element active? No
+Is list element active? Yes
+Is list element active? Yes
+Is list element active? Yes
+Is list element active? Yes
+Is list element active? No
+

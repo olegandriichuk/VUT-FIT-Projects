@@ -1,0 +1,7 @@
+
+[test_03] Parentheses change operator priority
+Provided infix  : A*(b/c)=
+Expected postfix: Abc/*=
+Conversion match: OK
+
+

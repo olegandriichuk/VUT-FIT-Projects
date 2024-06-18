@@ -1,0 +1,15 @@
+
+[test_insertFirst_active] Vložení prvu na první místo (seznam je aktivní)
+List elements  : 3
+First element  : 3
+Last element   : 3
+Active element : 3
+List elements  : 2 3
+First element  : 2
+Last element   : 3
+Active element : 3
+List elements  : 1 2 3
+First element  : 1
+Last element   : 3
+Active element : 3
+

@@ -1,0 +1,13 @@
+
+[test_getLast_active] Získání hodnoty posledního prvku (seznam je aktivní)
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : 3
+Returned value : 1
+List elements  : 3 2 1
+First element  : 3
+Last element   : 1
+Active element : 2
+Returned value : 1
+

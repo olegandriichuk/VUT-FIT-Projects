@@ -1,0 +1,6 @@
+
+[test_top_full] Stack top of full stack
+STACK: BOTTOM { 0 1 2 3 4 5 6 7 } TOP
+Char on the top: 7
+STACK: BOTTOM { 0 1 2 3 4 5 6 7 } TOP
+

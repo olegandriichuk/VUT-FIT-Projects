@@ -1,0 +1,7 @@
+
+[test_24] Complex expression
+Provided infix  : (A*0+b/l)-((c+D)*(x)/k*8)*(e/(3*f/g+r/t*(j+o/p)))=
+Expected postfix: A0*bl/+cD+x*k/8*e3f*g/rt/jop/+*+/*-=
+Conversion match: OK
+
+

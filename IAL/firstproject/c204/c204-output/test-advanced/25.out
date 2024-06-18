@@ -1,0 +1,6 @@
+
+[test_eval_02] Evaluate expression
+expression : (a-b)*C=
+variables  : a = 300, b = 500, C = -500
+eval result: 100000
+

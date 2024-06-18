@@ -1,0 +1,11 @@
+
+[test_insertBefore_between] Vložení několika prvků před aktivní prvek (mezi prvky)
+List elements  : 5 1
+First element  : 5
+Last element   : 1
+Active element : not initialised (no item is active)
+List elements  : 2 3 4 5 1
+First element  : 2
+Last element   : 1
+Active element : 5
+

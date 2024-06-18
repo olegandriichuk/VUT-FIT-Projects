@@ -1,0 +1,7 @@
+
+[test_09] Plus operator does not have higher priority than minus
+Provided infix  : 1*2/3=
+Expected postfix: 12*3/=
+Conversion match: OK
+
+
